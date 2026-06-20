@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stefanie Nicole Navarro 👋</h1>
+<h1 align="center">Hi, I'm Stefanie 👋</h1>
 <h3 align="center">Operations Associate | Data Entry Specialist | Admin Support</h3>
 <p align="center">
   I help businesses stay organized through data entry, CRM management, and AI-assisted workflows — combining 5+ years of remote operations experience with modern tools like Claude and ChatGPT.
