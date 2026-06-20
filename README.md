@@ -40,4 +40,4 @@
   ⚡ AI-powered, detail-driven, and reliable
 </p>
 <hr>
-<p align="center"><i>Portfolio built independently using Claude.ai — hosted on GitHub Pages</i></p>ShareContentpdfpdfpdfpdfpdfAprio PH - Job Description.docxdocxpdfUntitled spreadsheet.xlsxxlsx
+<p align="center"><i>Portfolio built independently using Claude.ai — hosted on GitHub Pages</i></p>
