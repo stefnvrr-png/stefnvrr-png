@@ -1,16 +1,15 @@
 ## Hi there, I'm Stefanie👋
 
-<!--
-**stefnvrr-png/stefnvrr-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Entry | Operations Associate | Virtual Assistant
 
-Here are some ideas to get you started:
+I help businesses stay organized with data entry, CRM management, and AI-assisted workflows using Claude and ChatGPT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Portfolio: https://stefnvrr-png.github.io/stefanie-navarro/
+📧 Email: stefnvrr@gmail.com
+💼 LinkedIn: linkedin.com/in/stefanie-navarro
+
+## Skills
+- Data Entry & Validation
+- Salesforce CRM
+- Google Workspace
+- AI Tools: Claude, ChatGPT
