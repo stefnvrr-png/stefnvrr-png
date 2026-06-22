@@ -33,7 +33,10 @@
 </ul>
 <h3>💻 Currently Learning</h3>
 <ul>
-  <li>HTML & CSS Fundamentals - freeCodeCamp</li>
+  <li>Responsive Web Design — freeCodeCamp<br>
+    <em>In progress — building real HTML/CSS projects (cards, layouts, forms)
+</em>
+  </li>
   <li>Claude Code</li>
 </ul>
 <h3>📍 Availability</h3>
