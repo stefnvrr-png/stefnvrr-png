@@ -13,7 +13,6 @@
 <ul>
   <li>📊 Data Entry & Validation — high-volume, high-accuracy records</li>
   <li>🗂️ CRM Management — Salesforce, spreadsheet systems</li>
-  <li>📧 Email & Admin Support — inbox management, scheduling, SOP creation</li>
   <li>🤖 AI-Assisted Workflows — Claude (Anthropic) & ChatGPT for faster, cleaner output</li>
   <li>🍽️ Menu Transcription — structured data from handwritten, printed, and digital sources</li>
 </ul>
