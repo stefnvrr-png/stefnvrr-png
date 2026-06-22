@@ -31,11 +31,10 @@
 <ul>
   <li>Claude AI 101 — Anthropic / Claude.ai Foundations</li>
 </ul>
-<h3><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0effda45-2dcf-4949-800a-a050cafe3ee7" />
-Currently Learning</h3>
+<h3>Currently Learning</h3>
 <ul>
   <li>HTML & CSS Fundamentals - freeCodeCamp</li>
-  <li>Claude Code</li>
+  <li>💻Claude Code</li>
 </ul>
 <h3>📍 Availability</h3>
 <p>
