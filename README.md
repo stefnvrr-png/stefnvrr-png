@@ -31,10 +31,10 @@
 <ul>
   <li>Claude AI 101 — Anthropic / Claude.ai Foundations</li>
 </ul>
-<h3>Currently Learning</h3>
+<h3>💻 Currently Learning</h3>
 <ul>
   <li>HTML & CSS Fundamentals - freeCodeCamp</li>
-  <li>💻Claude Code</li>
+  <li>Claude Code</li>
 </ul>
 <h3>📍 Availability</h3>
 <p>
