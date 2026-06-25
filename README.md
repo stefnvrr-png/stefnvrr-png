@@ -4,7 +4,7 @@
   I help businesses stay organized through data entry, CRM management, and AI-assisted workflows — combining 5+ years of remote operations experience with modern tools like Claude and ChatGPT.
 </p>
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1EXgDlW8nPEVdfSg5_UeGOy190t47ojje"><img src="https://img.shields.io/badge/Resume-66ff00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1njZpvYfjq90astk9-Jud2efoBb3OToQQ/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-66ff00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://stefnvrr-png.github.io/stefanie-navarro/"><img src="https://img.shields.io/badge/Portfolio-B5813A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/stefanie-navarro/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:stefnvrr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
